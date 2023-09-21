@@ -1,0 +1,44 @@
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.csproj.AssemblyReference.cache
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.AssemblyInfoInputs.cache
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.AssemblyInfo.cs
+C:\Users\rahiarp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.csproj.CoreCompileInputs.cache
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\bin\Debug\net7.0\C-Sharp-Game.exe
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\bin\Debug\net7.0\C-Sharp-Game.deps.json
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\bin\Debug\net7.0\C-Sharp-Game.runtimeconfig.json
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\bin\Debug\net7.0\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\bin\Debug\net7.0\C-Sharp-Game.pdb
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\refint\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.pdb
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\C-Sharp-Game.genruntimeconfig.cache
+C:\Users\rahi\Desktop\C-Sharp-Game\C-Sharp-Game\obj\Debug\net7.0\ref\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.exe
+C:\Users\rahi\Desktop\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.deps.json
+C:\Users\rahi\Desktop\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.runtimeconfig.json
+C:\Users\rahi\Desktop\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.pdb
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.csproj.AssemblyReference.cache
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.AssemblyInfoInputs.cache
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.AssemblyInfo.cs
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.csproj.CoreCompileInputs.cache
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\refint\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.pdb
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.genruntimeconfig.cache
+C:\Users\rahi\Desktop\200544014 final game\obj\Debug\net7.0\ref\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.exe
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.deps.json
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.runtimeconfig.json
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\bin\Debug\net7.0\C-Sharp-Game.pdb
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.AssemblyInfoInputs.cache
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.AssemblyInfo.cs
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.csproj.CoreCompileInputs.cache
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\refint\C-Sharp-Game.dll
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.pdb
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\C-Sharp-Game.genruntimeconfig.cache
+C:\Users\rahi\Desktop\sem 2 and 1 mess\mess\extraaa\200544014 final game\obj\Debug\net7.0\ref\C-Sharp-Game.dll
